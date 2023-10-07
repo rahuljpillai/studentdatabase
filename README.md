@@ -96,10 +96,6 @@ flex: Both elements are given a flex value of 1, which means they will share an 
 padding: Adds 10 pixels of padding inside both elements.
 .right also has border-left to create a vertical divider line between the left and right elements.
 
-4. h1: This section styles all <h1> elements on the page.
-
-
-text-align: Centers the text horizontally within the <h1> element.
 
 5. table: This section styles all HTML tables on the page.
 
